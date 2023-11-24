@@ -25,4 +25,4 @@ At JustHackIt, we believe in the power of code to spark innovation and create re
 
 JustHackIt is more than an event; it's a community-driven movement to push the boundaries of what's possible in the world of coding. The countdown to JustHackIt has begun - get ready to unlock the extraordinary! ⏳💻✨
 
-[Include JustHackIt Logo or Relevant Visuals]
+![logo](mainLogo.png)
